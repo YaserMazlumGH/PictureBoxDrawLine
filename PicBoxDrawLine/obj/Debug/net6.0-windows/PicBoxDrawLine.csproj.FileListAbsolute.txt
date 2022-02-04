@@ -1,0 +1,17 @@
+D:\Projects\VisualStudio\PicBoxDrawLine\PicBoxDrawLine\obj\Debug\net6.0-windows\PicBoxDrawLine.csproj.AssemblyReference.cache
+D:\Projects\VisualStudio\PicBoxDrawLine\PicBoxDrawLine\obj\Debug\net6.0-windows\PicBoxDrawLine.Form1.resources
+D:\Projects\VisualStudio\PicBoxDrawLine\PicBoxDrawLine\obj\Debug\net6.0-windows\PicBoxDrawLine.csproj.GenerateResource.cache
+D:\Projects\VisualStudio\PicBoxDrawLine\PicBoxDrawLine\obj\Debug\net6.0-windows\PicBoxDrawLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VisualStudio\PicBoxDrawLine\PicBoxDrawLine\obj\Debug\net6.0-windows\PicBoxDrawLine.AssemblyInfoInputs.cache
+D:\Projects\VisualStudio\PicBoxDrawLine\PicBoxDrawLine\obj\Debug\net6.0-windows\PicBoxDrawLine.AssemblyInfo.cs
+D:\Projects\VisualStudio\PicBoxDrawLine\PicBoxDrawLine\obj\Debug\net6.0-windows\PicBoxDrawLine.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudio\PicBoxDrawLine\PicBoxDrawLine\bin\Debug\net6.0-windows\PicBoxDrawLine.exe
+D:\Projects\VisualStudio\PicBoxDrawLine\PicBoxDrawLine\bin\Debug\net6.0-windows\PicBoxDrawLine.deps.json
+D:\Projects\VisualStudio\PicBoxDrawLine\PicBoxDrawLine\bin\Debug\net6.0-windows\PicBoxDrawLine.runtimeconfig.json
+D:\Projects\VisualStudio\PicBoxDrawLine\PicBoxDrawLine\bin\Debug\net6.0-windows\PicBoxDrawLine.dll
+D:\Projects\VisualStudio\PicBoxDrawLine\PicBoxDrawLine\bin\Debug\net6.0-windows\ref\PicBoxDrawLine.dll
+D:\Projects\VisualStudio\PicBoxDrawLine\PicBoxDrawLine\bin\Debug\net6.0-windows\PicBoxDrawLine.pdb
+D:\Projects\VisualStudio\PicBoxDrawLine\PicBoxDrawLine\obj\Debug\net6.0-windows\PicBoxDrawLine.dll
+D:\Projects\VisualStudio\PicBoxDrawLine\PicBoxDrawLine\obj\Debug\net6.0-windows\ref\PicBoxDrawLine.dll
+D:\Projects\VisualStudio\PicBoxDrawLine\PicBoxDrawLine\obj\Debug\net6.0-windows\PicBoxDrawLine.pdb
+D:\Projects\VisualStudio\PicBoxDrawLine\PicBoxDrawLine\obj\Debug\net6.0-windows\PicBoxDrawLine.genruntimeconfig.cache
